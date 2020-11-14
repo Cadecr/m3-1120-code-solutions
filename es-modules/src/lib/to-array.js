@@ -3,4 +3,6 @@ function toArray(value) {
 }
 
 // module.exports = toArray;
-export { toArray as default };
+
+// This is the best way to export default functions.
+export default toArray;
