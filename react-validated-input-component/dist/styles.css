@@ -1,0 +1,13 @@
+.warning {
+  display: inline-block;
+  color: red;
+}
+
+.textbox {
+  display: inline-block;
+}
+
+.approved {
+  display: inline-block;
+  color: green;
+}
